@@ -1,0 +1,66 @@
+body {
+    background-color: #000;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.intro {
+    margin-top: 230px;
+    margin-bottom: 250px;
+}
+
+.title-intro, .subtitle-intro {
+    color: #000;
+}
+
+.title-intro {
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 50px;
+}
+
+.subtitle-intro {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.btn-intro {
+    background-color: #4985FF;
+    color: #fff;
+    padding: 10px 35px;
+    border-radius: 40px;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.info-project {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.subinfo-project {
+    font-size: 16px;
+    color: #999999;
+}
+
+.number-p {
+    color: #4985FF;
+}
+
+.p-onesfooter {
+    font-size: 16px;
+    color: #999;
+}
+
+.p-infooter {
+    font-size: 13px;
+    color: #999;
+}
+
+.nav-link {
+    margin: 0;
+    padding: 0;
+}
